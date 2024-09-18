@@ -21,4 +21,4 @@ Um script em Python que gera intervalos de horas aleatórias para cada dia de um
 3. Execute o script com o comando:
 
    ```bash
-   python gerador_horas.py
+   python gerador.py
